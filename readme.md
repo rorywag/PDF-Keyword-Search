@@ -4,7 +4,7 @@
 pip install pymupdf
 
 <h1>Command to run script</h1> 
-python search_pdfs.py
+python pdfKeywordSearch.py
 
 <h1> Example output:</h1>  
 Enter the folder path containing PDF files: C:\path\to\pdf\folder<br />
