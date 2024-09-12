@@ -1,3 +1,5 @@
+**This Python script allows you to search for a keyword across multiple PDF files within a selected folder and will output the path and name of which files contain the keyword**
+
 <h1>Install requirement:</h1>
 pip install pymupdf
 
